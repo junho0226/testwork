@@ -27,4 +27,4 @@
 - [ ] 웹개발
 
 ## 4.참고사항
-[홈페이지](junho0226.github.io/testwork/)
+[홈페이지]([junho0226.github.io/testwork/](https://junho0226.github.io/testwork/))
